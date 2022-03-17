@@ -24,7 +24,7 @@ the infographic for the bounty are uploaded into the folder called infographics
 
 <img src="./infographics/rcsvfrs305l81.jpg" width="400">
 
-<img src="./infographics/FM28J5DaMAMgwWP.mov" width="400">
+<video src="./infographics/FM28J5DaMAMgwWP.mov" width="400">
 
 
 
