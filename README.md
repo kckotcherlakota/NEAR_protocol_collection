@@ -3,6 +3,8 @@ NEAR Protocol - Infographic, Blog, Frontend and Tutorial
 
 
 <br />
+<a href="https://www.youtube.com/watch?v=w-y2LMpqun0&ab_channel=neuralnets" target="_blank">Youtube video tutorial </a>
+
 <br />
 
 
