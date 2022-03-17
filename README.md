@@ -25,13 +25,13 @@ the infographic for the bounty are uploaded into the folder called infographics
 
 
 
-###  Frontend for NEAR contract Bounty demo image:
+## Frontend for NEAR contract Bounty demo image:
 
 <img src="./public/docs/demo.png" width="500">
 
 ----
 
-### Getting Started with 
+### Getting Started with Frontend Bounty
 
 npm:
 ```sh
