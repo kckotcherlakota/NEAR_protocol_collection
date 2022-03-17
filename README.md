@@ -8,14 +8,14 @@ NEAR Protocol - Infographic, Blog, Frontend and Tutorial
 
 ## Near Video bounty - below youtube link 
 <br />
-<a href="https://www.youtube.com/watch?v=w-y2LMpqun0&ab_channel=neuralnets" target="_blank">Youtube video tutorial </a>
+<a href="https://www.youtube.com/watch?v=w-y2LMpqun0&ab_channel=neuralnets" target="_blank">Youtube NEAR tutorial </a>
 <br />
 
 ## SOCIAL MEDIA BOUNTY  
 Blog is deployed on medium, this is the link to the medium blog
 
 <br />
-<a href="https://medium.com/@kotcherlakota.chaitanya/near-protocol-token-what-is-near-protocol-355a7e03ef9e" target="_blank">Medium Blog link </a>
+<a href="https://medium.com/@kotcherlakota.chaitanya/near-protocol-token-what-is-near-protocol-355a7e03ef9e" target="_blank">Medium Blog On NEAR Protocol  </a>
 <br />
 
 ## Near Infographic - Bounty 
