@@ -22,6 +22,8 @@ Blog is deployed on medium, this is the link to the medium blog
 
 the infographic for the bounty are uploaded into the folder called infographics 
 
+<img src="./infographics/rcsvfrs305l81.jpg" width="500">
+
 
 
 
